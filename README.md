@@ -120,3 +120,7 @@ There are another two similar projects respectively built on the Vue.js and Angu
 - May 2018 -  Create an archived branch json-server
 
   This branch was the master which used Json-Server as fake API. Considering the hiccup of setting Json-Server up and maintenance, it will be replaced by fake service ( Readonly fake API). You still can find clone this branch by branch name **json-server**, but it will be no longer updated. It is an archived branch.
+
+## ThatchFlow Pro Skeleton
+
+The `thatchflow` directory contains a modular Android SDK structure, and `functions` holds Firebase Cloud Functions written in TypeScript.

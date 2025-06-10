@@ -1,0 +1,16 @@
+{
+  "name": "thatchflow-functions",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "firebase emulators:start --only functions"
+  },
+  "dependencies": {
+    "firebase-functions": "^4.2.0",
+    "firebase-admin": "^11.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
